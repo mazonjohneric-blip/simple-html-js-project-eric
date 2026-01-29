@@ -1,0 +1,8 @@
+<h2>Group Members</h2>
+<ul>
+    <li>John Rey M. Atienza</li>
+    <li>Rasheed Ivan D. Sumo</li>
+    <li>John Eric L. Mazon</li>
+</ul>
+
+<button onclick="changeColor()">Change Background</button>
